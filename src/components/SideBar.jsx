@@ -91,7 +91,7 @@ const SideBar = ({ open, handleDrawerClose, DrawerHeader }) => {
           border: "2px solid grey",
         }}
         alt="Travis Howard"
-        src="https://th.bing.com/th/id/OIP.naW7YylQmdacOwow_5FFmgHaEK?w=299&h=180&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3"
+        src="/images/profile.webp"
       />
       <Typography align="center" sx={{ fontSize: 17, mb: 1 }}>
         Ahmed Esawy
