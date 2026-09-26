@@ -39,7 +39,7 @@ A modern admin dashboard built with **React 19** and **Material UI (MUI) v7**, f
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ahmed-Esawy-1/<repo-name>.git
+git clone https://github.com/Ahmed-Esawy-1/Dashboard-MUI.git
 
 # Install dependencies
 npm install
@@ -51,6 +51,3 @@ npm run dev
 npm run build
 ```
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
